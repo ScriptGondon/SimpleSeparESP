@@ -12,7 +12,7 @@ local DB = false
 --//Notification\\--
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Notification",
-	Text = "by Separatist" ,
+	Text = "by GonDon" ,
 	Button1 = "thx",
 	Button2 = "Shut the fuck up",
 	Duration = math.huge
